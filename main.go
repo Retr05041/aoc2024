@@ -3,5 +3,5 @@ package main
 import "src"
 
 func main() {
-	src.DayOnePtTwo()
+	src.DayTwoPtTwo()
 }
